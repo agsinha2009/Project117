@@ -1,0 +1,28 @@
+body{
+    background-color: yellow;
+}
+
+#Score{
+    font-size: 25px;
+    color: red;
+    margin-right: 1330px;
+}
+
+#Time{
+    font-size: 25px;
+    color: red;
+}
+
+#task{
+    color: red;
+    font-family: fantasy;
+    font-size: 26px;
+}
+
+#result{
+    font-size: 25px;
+}
+
+#cofidence{
+    font-size: 25px;
+}
